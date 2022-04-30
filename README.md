@@ -3,7 +3,7 @@
   <img src="./design/desktop-preview.jpg" alt="preview">
 
 ## Sobre o Desafio
-O  desafio é construir este componente de código QR e fazê-lo o mais semelhante possível com a imagem acima. Poderá ser utilizado qualquer tipo de ferramenta.
+O  desafio consiste em construir este componente de código QR e fazê-lo o mais semelhante possível com a imagem acima. Poderá ser utilizado qualquer tipo de ferramenta.
 
 
 ## Layout
